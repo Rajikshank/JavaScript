@@ -37,7 +37,6 @@ form.addEventListener('submit',(e)=>{
 
     },10);
     
-    
     console.log(result.querySelector('span').textContent)
 
      
